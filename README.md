@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushsachancs-a&label=Profile%20views&color=0e75b6&style=flat" alt="ayushsachancs-a" /> </p>
 
-- 🌱 I’m currently learning **Full-Stack development**
-
 - 📫 How to reach me **ayushsachan162@gmail.com**
 
 - ⚡ Fun fact **I love travelling**
